@@ -1,5 +1,6 @@
 # AriaChat
 A rudimentary chatbot with speech and text input/output. A minimalistic UI was made using PyGame to communicate with Aria, and ML models used are from the ```transformers``` package. Models setup are Pygmalion-1.3b and DialoGPT-Large.
+
 ![idle](https://github.com/user-attachments/assets/ee18cc14-199f-455b-976e-776bc7611acc)
 ## Installation
 All code and processing is run locally, but an internet connection is needed to install datasets for the language and speech models when the program is initally run. Clone the repository, install necessary dependencies, and run either python script.
